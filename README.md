@@ -1,4 +1,5 @@
-# CloudwatchCPUalarm_using_terraform
+# Cloudwatch CPU Utilisation alarm
+
 ### **About**
 Setting up the CloudWatch CPU alarm using terraform code
 
