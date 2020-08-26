@@ -5,6 +5,6 @@ Setting up the CloudWatch CPU alarm using terraform code
 In terraform terms,we call these providers as "plugins" so that Terraform installs to interact with remote system.This provider configuration can also be declared in root module.But it always a best practice to use as a seperate .tf file.
 
 ###Commands
-- terraform init
-- terraform plan
-- terraform apply
+- ``` terraform init ```
+- ``` terraform plan ```
+- ``` terraform apply ```
