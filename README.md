@@ -1,6 +1,7 @@
 # CloudwatchCPUalarm_using_terraform
 Setting up the CloudWatch CPU alarm using terraform code
 
-#### "providers.tf" states teh which cloud provder we are using.This block of code can be used in the main tf code.But it is always as best practice to use as a seperate .tf file.
+"providers.tf" states which cloud provider we are using.
+In terraform terms,we call these providers as "plugins" to interact with remote system.This provider configuration can also be declared in root module.But it always a best practice to use as a seperate .tf file.
 
 
